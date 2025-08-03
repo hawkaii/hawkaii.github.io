@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
     <channel>
-      <title>hawkaii.me</title>
+      <title>hawkaii&#039;s blog</title>
       <link>https://hawkaii.me</link>
-      <description>Last 10 notes on hawkaii.me</description>
+      <description>Last 10 notes on hawkaii&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
     <title>writing</title>
     <link>https://hawkaii.me/thoughts/writing</link>
     <guid>https://hawkaii.me/thoughts/writing</guid>
     <description></description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>craft</title>
     <link>https://hawkaii.me/thoughts/craft</link>
     <guid>https://hawkaii.me/thoughts/craft</guid>
     <description></description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
+  </item><item>
+    <title>agentic</title>
+    <link>https://hawkaii.me/thoughts/agentic</link>
+    <guid>https://hawkaii.me/thoughts/agentic</guid>
+    <description></description>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>agency</title>
     <link>https://hawkaii.me/thoughts/agency</link>
     <guid>https://hawkaii.me/thoughts/agency</guid>
     <description></description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>Internet</title>
     <link>https://hawkaii.me/thoughts/Internet</link>
     <guid>https://hawkaii.me/thoughts/Internet</guid>
     <description></description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>Writing</title>
     <link>https://hawkaii.me/tags/writing</link>
     <guid>https://hawkaii.me/tags/writing</guid>
     <description>A small collection of some of the writing I've been experimenting with. These are mostly unpolished experiments with fiction and poetry that I've been playing around with. I leave these to you as gifts.</description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>Technical</title>
     <link>https://hawkaii.me/tags/technical</link>
     <guid>https://hawkaii.me/tags/technical</guid>
     <description>Notes and blog posts on technical subjects. Though there are a lot of technical notes in this garden, these ones are generally ready for public consumption.</description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>Seed</title>
     <link>https://hawkaii.me/tags/seed</link>
     <guid>https://hawkaii.me/tags/seed</guid>
     <description>I tend to generally bookmark things for later then revisit them when I have time. These are collections of notes on articles, books, and readings. They are the seeds that form the basis of my ideas and thoughts.</description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>Sapling</title>
     <link>https://hawkaii.me/tags/sapling</link>
     <guid>https://hawkaii.me/tags/sapling</guid>
     <description>Saplings are single nodes or thoughts. These are generally topics I've spent a decent number of hours thinking about and contain substantial original thought.</description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item><item>
     <title>Rhizome</title>
     <link>https://hawkaii.me/tags/rhizome</link>
     <guid>https://hawkaii.me/tags/rhizome</guid>
     <description>My independent research practice focused on data-neutrality.</description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
-  </item><item>
-    <title>Personal</title>
-    <link>https://hawkaii.me/tags/personal</link>
-    <guid>https://hawkaii.me/tags/personal</guid>
-    <description>Personal reflections and musings about my life. I really like to write feelings down as a way to process them and sometimes they take the form of blogposts like these.</description>
-    <pubDate>Sat, 02 Aug 2025 08:06:34 GMT</pubDate>
+    <pubDate>Sun, 03 Aug 2025 20:05:56 GMT</pubDate>
   </item>
     </channel>
   </rss>
