@@ -1,8 +1,9 @@
 ---
-title: "Making annapurna-bot"
-date: "2025-08-11"
+title: Making annapurna-bot
+date: 2025-08-11
 tags:
-  - seed
+  - technical
+  - sapling
 ---
 # Annapurna: The AI Kitchen Assistant That Lives in Your Pocket (and How I Deployed Her to Railway)
 
@@ -17,7 +18,7 @@ Enter **Annapurna**, my AI-powered kitchen assistant, built with love, Python, a
 
 ## What Can Annapurna Do? (Spoiler: A Lot!)
 
-- **Scan Grocery Bills:** Snap a pic, and Annapurna’s Azure-powered OCR reads your bill, updating your pantry in seconds. read more about it at  [[Azaure Ai Vison |how i used azure for ocr]]
+- **Scan Grocery Bills:** Snap a pic, and Annapurna’s Azure-powered OCR reads your bill, updating your pantry in seconds. read more about it at  [[Azure Ai Vison|how i used azure for ocr]]
 - **Smart Inventory:** Never forget what’s in your kitchen. Annapurna keeps your inventory fresh and accurate.
 - **AI Recipe Suggestions:** “What can I cook with these?” Just ask! Gemini AI whips up creative, healthy recipes based on your real ingredients.
 - **Nutrition Tracker:** Log your meals, get instant nutrition facts, and see your daily scoreboard—calories, protein, carbs, and fat, all tracked in PostgreSQL.
@@ -48,7 +49,7 @@ When you send a photo to Annapurna via WhatsApp:
 User sends image → Puch AI → MCP Server → Azure AI Vision
 ```
 Azure's OCR engine extracts every line item from your grocery bill with scary-good accuracy. We're talking "reads your doctor's handwriting" level precision.
-[[Azaure Ai Vison|read this chapter for a more detailed overview]]
+[[Azure Ai Vison|read this chapter for a more detailed overview]]
 ### Step 2: Text Parsing → Structured Data
 The raw OCR text gets parsed into clean, structured data:
 ```python
