@@ -15,10 +15,9 @@ Picture this: It’s 7pm, your stomach is rumbling, and your fridge is a cryptic
 
 Enter **Annapurna**, my AI-powered kitchen assistant, built with love, Python, and a dash of Puch AI magic. She’s not just a bot—she’s your culinary sidekick, nutritionist, and inventory manager, all rolled into one.
 
-
 ## What Can Annapurna Do? (Spoiler: A Lot!)
 
-- **Scan Grocery Bills:** Snap a pic, and Annapurna’s Azure-powered OCR reads your bill, updating your pantry in seconds. read more about it at  [[Azure Ai Vison|how i used azure for ocr]]
+- **Scan Grocery Bills:** Snap a pic, and Annapurna’s Azure-powered OCR reads your bill, updating your pantry in seconds. read more about it at  [[posts/Azure Ai Vison|how i used Azure for OCR]]
 - **Smart Inventory:** Never forget what’s in your kitchen. Annapurna keeps your inventory fresh and accurate.
 - **AI Recipe Suggestions:** “What can I cook with these?” Just ask! Gemini AI whips up creative, healthy recipes based on your real ingredients.
 - **Nutrition Tracker:** Log your meals, get instant nutrition facts, and see your daily scoreboard—calories, protein, carbs, and fat, all tracked in PostgreSQL.
@@ -141,7 +140,7 @@ async def log_nutrition(user_id: str, food_data: dict):
 From the user's perspective, they just:
 1. Send a photo
 2. Get a list of ingredients available
-3. Ask "What can I cook?" and get recipes based on real inventory
+3. Ask "get nutrition" and see if it fits your diet
 4. Log meals and see nutrition update in real-time
 
 But behind the scenes, there's a symphony of Azure OCR, Gemini AI, async PostgreSQL operations, and Railway's rock-solid infrastructure making it all possible.
@@ -197,7 +196,7 @@ I used `/mcp connect https://my-railway-app.up.railway.app/mcp <my_secret_token>
 
 Annapurna started as a weekend project and blossomed into a full-fledged AI kitchen companion. She’s already helping users eat healthier, waste less, and have more fun in the kitchen. Next up: web and mobile apps, smarter meal planning, and maybe even voice assistant integration (Alexa, watch out!).
 
-If you want to build your own AI assistant, check out the [repo](https://github.com/hawkaii/annapurna) and join the [Puch AI Discord](https://discord.gg/VMCnMvYx). And if you deploy on Railway, let me know—maybe Annapurna and her cousins can swap recipes!
+If you want to build your own AI assistant, check out the [repo](https://github.com/hawkaii/annapurna) . And if you deploy on Railway, let me know—maybe Annapurna and her cousins can swap recipes!
 
 ## 🚀 Future Scope & Updates
 
