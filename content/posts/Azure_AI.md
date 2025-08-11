@@ -124,7 +124,7 @@ Integrating Azure AI Vision’s OCR turned a tedious task—manually logging gro
 
 If you’re building anything that needs to “see” and understand images, give Azure’s Computer Vision API a try. It’s the secret sauce behind Annapurna’s smart kitchen magic!
 
-read the full implementation at [[posts/Making Annapurna-bot|Annapurna-bot blog]]
+read the full implementation at [[Making_Annapurna_bot|Annapurna-bot blog]]
 
 
 ---
