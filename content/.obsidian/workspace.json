@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "11162dfe53e262bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "3cbbd4237012658a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d9c48804a5cc77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/craft.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "craft"
+            }
+          },
+          {
+            "id": "227b79b06c977617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/hackathons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hackathons"
+            }
+          },
+          {
+            "id": "c6abebefeff87607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "books.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "books"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8052d3ab453120d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "77d4c79804ce624f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25554be4a0710362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f85fc00a75fe5847",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fccf0274786d9bee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "96704e5c56df1f18",
+    "type": "split",
+    "children": [
+      {
+        "id": "ceb282079a2c12c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef52bf4fef04f293",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "books.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for books"
+            }
+          },
+          {
+            "id": "9ed2a1e2caef9ead",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "books.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from books"
+            }
+          },
+          {
+            "id": "5bfe74e369c30b4d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "905273aa6452e2a3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "books.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of books"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90d9c48804a5cc77",
+  "lastOpenFiles": [
+    "_index.md",
+    "posts/azure_ai_ocr.md",
+    "posts/making_annapurna_bot.md",
+    "thoughts/hackathons.md",
+    "books.md",
+    "Pasted image 20250811183433.png",
+    "thoughts/craft.md",
+    "thoughts/hypertext.md",
+    "posts/networked-thought.md",
+    "Screenshot_20250810-013526.png",
+    "posts/annapurna-images/Screenshot_20250810-013422.png",
+    "posts/annapurna-images",
+    "posts/annapurna-images/Screenshot_20250811-002632.png",
+    "posts/annapurna-bot database.md",
+    "posts/backend.md",
+    "thoughts/Internet.md",
+    "tags/evergreen.md",
+    "tags/fruit.md",
+    "tags/sapling.md",
+    "tags/pluto.md",
+    "tags/technical.md",
+    "tags/writing.md",
+    "tags/pattern.md",
+    "tags/seed.md",
+    "_index.md~",
+    "4913",
+    "thoughts/agentic.md",
+    "thoughts/agency.md",
+    "thoughts/writing.md",
+    "templates/post.md",
+    "tags/PHIL240A.md",
+    "tags/PHIL451A.md"
+  ]
+}
