@@ -6,6 +6,7 @@
       {
         "id": "3cbbd4237012658a",
         "type": "tabs",
+        "dimension": 69.12393162393163,
         "children": [
           {
             "id": "90d9c48804a5cc77",
@@ -29,6 +30,30 @@
               },
               "icon": "lucide-file",
               "title": "craft"
+            }
+          },
+          {
+            "id": "f03fd11448965378",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/making_monkey_go.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "making_monkey_go"
             }
           },
           {
@@ -77,6 +102,51 @@
               },
               "icon": "lucide-file",
               "title": "books"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "1f6dc5b45646f18f",
+        "type": "tabs",
+        "dimension": 30.87606837606838,
+        "children": [
+          {
+            "id": "638b6fe6354b2d85",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "posts/making_monkey_go.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224442,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of making_monkey_go"
             }
           }
         ]
@@ -152,17 +222,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "books.md",
-                "collapseAll": false,
+                "file": "posts/making_monkey_go.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for books"
+              "title": "Backlinks for making_monkey_go"
             }
           },
           {
@@ -200,16 +270,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "books.md",
+                "file": "posts/making_monkey_go.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of books"
+              "title": "Outline of making_monkey_go"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -226,17 +297,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "90d9c48804a5cc77",
+  "active": "f03fd11448965378",
   "lastOpenFiles": [
+    "posts/monkey_go_parser.md",
+    "posts/making_monkey_go.md",
+    "posts/making_annapurna_bot.md",
+    "posts/networked-thought.md",
+    "tweet/tweet-thread-making_annapurna_bot.md",
+    "tweet",
+    "thoughts/craft.md",
     "_index.md",
     "posts/azure_ai_ocr.md",
-    "posts/making_annapurna_bot.md",
     "thoughts/hackathons.md",
     "books.md",
     "Pasted image 20250811183433.png",
-    "thoughts/craft.md",
     "thoughts/hypertext.md",
-    "posts/networked-thought.md",
     "Screenshot_20250810-013526.png",
     "posts/annapurna-images/Screenshot_20250810-013422.png",
     "posts/annapurna-images",
@@ -257,8 +332,6 @@
     "thoughts/agentic.md",
     "thoughts/agency.md",
     "thoughts/writing.md",
-    "templates/post.md",
-    "tags/PHIL240A.md",
-    "tags/PHIL451A.md"
+    "templates/post.md"
   ]
 }
