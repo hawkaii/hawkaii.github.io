@@ -1,5 +1,5 @@
 ---
-title: statuscode_2
+title: statuscode 2
 date: 2025-09-02
 tags:
   - sapling
@@ -36,12 +36,15 @@ So while we were working judges and mentors were overseeing and giving feedbacks
 ![[images/statuscode_images/PXL_20250823_203647567~2.jpg]]
 
 ### Final Product
+So  as you have guessed the project didn't finished, I thought we had a chance on the sponsor track and got busy deploying it  in Vultr. But hell , turns out sshing takes time but i think i acheived quite success from the limited time to turnover do visit the site - [academia.hawkaii.me](academia.hawkaii.me) . 
+The judgement turns out a total dissapointment. 
+But what really surprised us the *Vultr* track winner was announced in the closing ceremony. There were no judges who checked our project for that track and I really doubt they even saw the *Devfolio* submissions.
 
 
+But really learning nginx what i would take as the win. Just thinking about the things we could do like in any machine is what i think is a good ability.
 [[posts/configuring_a_nginx_server |deploying a full stack using nginx on a ubuntu server]] 
 
 
-academia.hawkaii.me
 https://www.youtube.com/watch?v=K21rq0wrJrE
 https://github.com/hawkaii/academia
 

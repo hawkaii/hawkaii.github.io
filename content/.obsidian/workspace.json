@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/statuscode_2.md",
+                "file": "thoughts/September 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,67 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "statuscode_2"
+              "title": "September 2025"
+            }
+          },
+          {
+            "id": "fccafdcb9c78298a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "thoughts/September 2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "September 2025"
+            }
+          },
+          {
+            "id": "ca2de3c08f855749",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20250913031845.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250913031845"
+            }
+          },
+          {
+            "id": "e8ba37fdf32b2c81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/contributing in Flux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "contributing in Flux"
             }
           },
           {
@@ -165,7 +225,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "1f6dc5b45646f18f",
@@ -178,7 +238,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "posts/statuscode_2.md",
+                "file": "posts/contributing in Flux.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -206,7 +266,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statuscode_2"
+              "title": "Graph of contributing in Flux"
             }
           }
         ]
@@ -358,47 +418,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7ba38da471da55b",
+  "active": "e8ba37fdf32b2c81",
   "lastOpenFiles": [
+    "posts/backend.md",
+    "Pasted image 20250811183433.png",
+    "Pasted image 20250913031845.png",
+    "thoughts/September 2025.md",
+    "cloudinary.png",
+    "posts/contributing in Flux.md",
+    "posts/winning_metamorph.md",
+    "posts/statuscode_2.md",
+    "images/metamorph images/Copy of IMG_9141.jpg",
+    "thoughts/Untitled",
+    "posts/contributing in syft.md",
+    "posts/annapurna-bot database.md",
     "posts/making_monkey_go.md",
+    "images/metamorph images",
+    "posts/monkey_go_parser.md",
+    "posts/networked-thought.md",
+    "thoughts/August 2025.md",
+    "tweet/tweet-thread-making_annapurna_bot.md",
+    "PXL_20250809_161226449.jpg",
     "posts/configuring_a_nginx_server.md",
-    "images/statuscode_images/PXL_20250824_214042121.jpg",
+    "posts/azure_ai_ocr.md",
     "images/statuscode_images/PXL_20250826_164028819.jpg",
     "images/statuscode_images/PXL_20250823_203647567~2.jpg",
-    "posts/statuscode_2.md",
+    "images/statuscode_images/PXL_20250824_214042121.jpg",
+    "thoughts/33 percent Impossibility Result.md",
     "posts/making_annapurna_bot.md",
     "images/statuscode_images/PXL_20250823_093347551.jpg",
     "images/statuscode_images/IMG_20250823_103034.jpg",
     "PXL.md",
-    "images/statuscode_images/GLX_7309.JPG",
-    "images/statuscode_images/judging1.jpg",
-    "images/statuscode_images/PXL_20250823_203749106~2.jpg",
     "tags/evergreen.md",
     "images/statuscode_images",
-    "posts/networked-thought.md",
-    "posts/azure_ai_ocr.md",
-    "posts/annapurna-bot database.md",
     "images",
-    "posts/monkey_go_parser.md",
-    "images/annapurna-images/Screenshot_20250811-002632.png",
-    "images/annapurna-images/Screenshot_20250810-013422.png",
-    "posts/backend.md",
     "_index.md",
     "tags/hackathon.md",
     "tags/personal.md",
     "tags/writing.md",
     "posts/2020.md",
-    "tweet/tweet-thread-making_annapurna_bot.md",
     "tweet",
     "thoughts/craft.md",
     "thoughts/hackathons.md",
-    "books.md",
-    "thoughts/hypertext.md",
     "images/annapurna-images",
-    "thoughts/Internet.md",
-    "tags/fruit.md",
-    "tags/sapling.md",
-    "tags/pluto.md",
     "_index.md~",
     "4913"
   ]
