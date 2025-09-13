@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/statuscode_2.md",
+                "file": "posts/monkey_go_parser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "statuscode_2"
+              "title": "monkey_go_parser"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "posts/statuscode_2.md",
+                "file": "posts/monkey_go_parser.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of statuscode_2"
+              "title": "Graph of monkey_go_parser"
             }
           }
         ]
@@ -384,9 +384,9 @@
   },
   "active": "c7ba38da471da55b",
   "lastOpenFiles": [
+    "posts/statuscode_2.md",
     "posts/monkey_go_parser.md",
     "posts/winning_metamorph.md",
-    "posts/statuscode_2.md",
     "academia.hawkaii.me.md",
     "thoughts/September 2025.md",
     "images/statuscode_images/PXL_20250823_203647567~2.jpg",
