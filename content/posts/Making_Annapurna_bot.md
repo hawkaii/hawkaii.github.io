@@ -4,6 +4,7 @@ date: 2025-08-11
 tags:
   - technical
   - sapling
+  - hackathon
 ---
 # Annapurna: The AI Kitchen Assistant That Lives in Your Pocket (and How I Deployed Her to Railway)
 
@@ -214,6 +215,7 @@ Stay tuned for updates and sneak peeks on the [official website](https://annapur
 
 also take a look at the [twitter-thread](https://x.com/hawkaiimello/status/1954613390045073568)
 
+[[tags/hackathon|hackathon]]
 **Bon appétit, and happy hacking! 🍽️🤖**
 
 [![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/lEdfl5?referralCode=MkczYC)

@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/September 2025.md",
+                "file": "posts/statuscode_2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,43 +77,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "September 2025"
+              "title": "statuscode_2"
             }
           },
           {
             "id": "fccafdcb9c78298a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "thoughts/September 2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "September 2025"
-            }
-          },
-          {
-            "id": "ca2de3c08f855749",
-            "type": "leaf",
-            "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20250913031845.png"
+                "file": "images/statuscode_images/PXL_20250823_203647567~2.jpg"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20250913031845"
+              "title": "PXL_20250823_203647567~2"
             }
           },
           {
@@ -122,7 +98,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/contributing in Flux.md",
+                "file": "posts/statuscode_2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -137,7 +113,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "contributing in Flux"
+              "title": "statuscode_2"
             }
           },
           {
@@ -162,18 +138,6 @@
               },
               "icon": "lucide-file",
               "title": "configuring_a_nginx_server"
-            }
-          },
-          {
-            "id": "b895495d5216cce7",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "images/statuscode_images/PXL_20250824_214042121.jpg"
-              },
-              "icon": "lucide-image",
-              "title": "PXL_20250824_214042121"
             }
           },
           {
@@ -225,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       },
       {
         "id": "1f6dc5b45646f18f",
@@ -238,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "posts/contributing in Flux.md",
+                "file": "posts/statuscode_2.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -261,12 +225,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7132754626224442,
+                  "scale": 0.508761885579261,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of contributing in Flux"
+              "title": "Graph of statuscode_2"
             }
           }
         ]
@@ -418,48 +382,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e8ba37fdf32b2c81",
+  "active": "c7ba38da471da55b",
   "lastOpenFiles": [
-    "posts/backend.md",
-    "Pasted image 20250811183433.png",
-    "Pasted image 20250913031845.png",
-    "thoughts/September 2025.md",
-    "cloudinary.png",
-    "posts/contributing in Flux.md",
+    "posts/monkey_go_parser.md",
     "posts/winning_metamorph.md",
     "posts/statuscode_2.md",
+    "academia.hawkaii.me.md",
+    "thoughts/September 2025.md",
+    "images/statuscode_images/PXL_20250823_203647567~2.jpg",
+    "images/statuscode_images/PXL_20250824_214042121.jpg",
+    "images/statuscode_images/PXL_20250826_164028819.jpg",
+    "Pasted image 20250913031845.png",
+    "posts/configuring_a_nginx_server.md",
+    "Pasted image 20250913135451.png",
+    "Pasted image 20250913135534.png",
+    "Pasted image 20250913135514.png",
+    "thoughts/craft.md",
+    "thoughts/August 2025.md",
+    "thoughts/hypertext.md",
+    "tags/hackathon.md",
+    "_index.md",
+    "thoughts/hackathons.md",
+    "posts/making_annapurna_bot.md",
+    "posts/making_monkey_go.md",
+    "posts/contributing in Flux.md",
+    "posts/backend.md",
+    "Pasted image 20250811183433.png",
+    "cloudinary.png",
     "images/metamorph images/Copy of IMG_9141.jpg",
     "thoughts/Untitled",
     "posts/contributing in syft.md",
     "posts/annapurna-bot database.md",
-    "posts/making_monkey_go.md",
     "images/metamorph images",
-    "posts/monkey_go_parser.md",
     "posts/networked-thought.md",
-    "thoughts/August 2025.md",
     "tweet/tweet-thread-making_annapurna_bot.md",
-    "PXL_20250809_161226449.jpg",
-    "posts/configuring_a_nginx_server.md",
     "posts/azure_ai_ocr.md",
-    "images/statuscode_images/PXL_20250826_164028819.jpg",
-    "images/statuscode_images/PXL_20250823_203647567~2.jpg",
-    "images/statuscode_images/PXL_20250824_214042121.jpg",
     "thoughts/33 percent Impossibility Result.md",
-    "posts/making_annapurna_bot.md",
-    "images/statuscode_images/PXL_20250823_093347551.jpg",
-    "images/statuscode_images/IMG_20250823_103034.jpg",
     "PXL.md",
     "tags/evergreen.md",
     "images/statuscode_images",
     "images",
-    "_index.md",
-    "tags/hackathon.md",
     "tags/personal.md",
     "tags/writing.md",
-    "posts/2020.md",
     "tweet",
-    "thoughts/craft.md",
-    "thoughts/hackathons.md",
     "images/annapurna-images",
     "_index.md~",
     "4913"
