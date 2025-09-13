@@ -10,4 +10,4 @@ This month is already to a dream start
 
 Nano Banana is awesome
 
-![[cloudinary.png]]
+![[images/cloudinary.png]]

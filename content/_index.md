@@ -24,3 +24,4 @@ As far as 'about' pages go, I hope this intrigues you to read more the stuffs i 
 - hawkaii :)
 ```
 
+*This site is hugely inspired by jacky* - https://github.com/jackyzha0 

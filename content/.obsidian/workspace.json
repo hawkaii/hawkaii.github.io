@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/monkey_go_parser.md",
+                "file": "posts/winning_metamorph.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "monkey_go_parser"
+              "title": "winning_metamorph"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "posts/monkey_go_parser.md",
+                "file": "posts/winning_metamorph.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -225,12 +225,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.508761885579261,
+                  "scale": 0.1846232622585821,
                   "close": false
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of monkey_go_parser"
+              "title": "Graph of winning_metamorph"
             }
           }
         ]
@@ -384,31 +384,36 @@
   },
   "active": "c7ba38da471da55b",
   "lastOpenFiles": [
-    "posts/statuscode_2.md",
+    "images/cloudinary.png",
+    "books.md",
+    "images/Pasted image 20250913031845.png",
+    "images/Pasted image 20250811183433.png",
+    "_index.md",
+    "thoughts/Internet.md",
+    "thoughts/writing.md",
+    "thoughts/hypertext.md",
+    "thoughts/craft.md",
+    "thoughts/agentic.md",
+    "thoughts/agency.md",
     "posts/monkey_go_parser.md",
+    "posts/statuscode_2.md",
     "posts/winning_metamorph.md",
     "academia.hawkaii.me.md",
     "thoughts/September 2025.md",
     "images/statuscode_images/PXL_20250823_203647567~2.jpg",
     "images/statuscode_images/PXL_20250824_214042121.jpg",
     "images/statuscode_images/PXL_20250826_164028819.jpg",
-    "Pasted image 20250913031845.png",
     "posts/configuring_a_nginx_server.md",
     "Pasted image 20250913135451.png",
     "Pasted image 20250913135534.png",
     "Pasted image 20250913135514.png",
-    "thoughts/craft.md",
     "thoughts/August 2025.md",
-    "thoughts/hypertext.md",
     "tags/hackathon.md",
-    "_index.md",
     "thoughts/hackathons.md",
     "posts/making_annapurna_bot.md",
     "posts/making_monkey_go.md",
     "posts/contributing in Flux.md",
     "posts/backend.md",
-    "Pasted image 20250811183433.png",
-    "cloudinary.png",
     "images/metamorph images/Copy of IMG_9141.jpg",
     "thoughts/Untitled",
     "posts/contributing in syft.md",
@@ -416,14 +421,8 @@
     "images/metamorph images",
     "posts/networked-thought.md",
     "tweet/tweet-thread-making_annapurna_bot.md",
-    "posts/azure_ai_ocr.md",
-    "thoughts/33 percent Impossibility Result.md",
-    "PXL.md",
-    "tags/evergreen.md",
     "images/statuscode_images",
     "images",
-    "tags/personal.md",
-    "tags/writing.md",
     "tweet",
     "images/annapurna-images",
     "_index.md~",

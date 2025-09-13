@@ -30,7 +30,7 @@ really is a head-turner but the wait was worth it. Hope i gain much success in m
 
 ## Songs
 I am keeping this section to just later revisit the songs i would listened 
-![[Pasted image 20250913031845.png]]
+![[images/Pasted image 20250913031845.png]]
 i have been listening to oklou a lot my new favourite artist i guess. 
 Also JID's new album was great. 
 Love me not was the reel song i fucked with i guess

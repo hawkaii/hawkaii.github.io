@@ -150,7 +150,7 @@ But behind the scenes, there's a symphony of Azure OCR, Gemini AI, async Postgre
 ---
 ## How I Deployed Annapurna on Railway 🚂
 
-![[Pasted image 20250811183433.png]]
+![[images/Pasted image 20250811183433.png]]
 Deploying to Railway was smoother than a perfectly blended smoothie. Here’s my recipe for success:
 
 ### 1. Containerize the App
