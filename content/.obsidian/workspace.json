@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/winning_metamorph.md",
+                "file": "thoughts/September 2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "winning_metamorph"
+              "title": "September 2025"
             }
           },
           {
@@ -202,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "posts/winning_metamorph.md",
+                "file": "thoughts/September 2025.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of winning_metamorph"
+              "title": "Graph of September 2025"
             }
           }
         ]
@@ -384,12 +384,14 @@
   },
   "active": "c7ba38da471da55b",
   "lastOpenFiles": [
+    "thoughts/Internet.md",
+    "posts/configuring_a_nginx_server.md",
+    "posts/winning_metamorph.md",
     "images/cloudinary.png",
     "books.md",
     "images/Pasted image 20250913031845.png",
     "images/Pasted image 20250811183433.png",
     "_index.md",
-    "thoughts/Internet.md",
     "thoughts/writing.md",
     "thoughts/hypertext.md",
     "thoughts/craft.md",
@@ -397,13 +399,11 @@
     "thoughts/agency.md",
     "posts/monkey_go_parser.md",
     "posts/statuscode_2.md",
-    "posts/winning_metamorph.md",
     "academia.hawkaii.me.md",
     "thoughts/September 2025.md",
     "images/statuscode_images/PXL_20250823_203647567~2.jpg",
     "images/statuscode_images/PXL_20250824_214042121.jpg",
     "images/statuscode_images/PXL_20250826_164028819.jpg",
-    "posts/configuring_a_nginx_server.md",
     "Pasted image 20250913135451.png",
     "Pasted image 20250913135534.png",
     "Pasted image 20250913135514.png",

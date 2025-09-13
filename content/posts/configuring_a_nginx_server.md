@@ -1,3 +1,10 @@
+---
+title: configuring_a_nginx_server
+date: 2025-09-02
+tags:
+  - seed
+---
+
 # Deploying UniCompass: A Journey Through Full-Stack Deployment Challenges
 
 ## Project Overview
