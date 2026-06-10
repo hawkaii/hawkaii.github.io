@@ -1,6 +1,6 @@
 ---
-title: Building Food Finder: An AI-Powered Nutrition App for India
-date: 2026-06-07
+title: "Building Food Finder: An AI-Powered Nutrition App for India"
+date: "2026-06-07"
 tags:
   - project
   - ai

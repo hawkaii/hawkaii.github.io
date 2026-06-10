@@ -1,6 +1,6 @@
 ---
 title: Test Sync Post
-date: 2026-06-07
+date: "2026-06-07"
 tags:
   - technical
   - test
