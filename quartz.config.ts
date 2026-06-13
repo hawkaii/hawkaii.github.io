@@ -23,34 +23,34 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: {
-          name: "DM Serif Display",
-          weights: [400],
+          name: "Space Mono",
+          weights: [400, 700],
         },
-        body: "Bricolage Grotesque",
+        body: "Inter",
         code: "JetBrains Mono",
       },
       colors: {
         lightMode: {
-          light: "#fffdfa",
-          lightgray: "#d1caba",
-          gray: "#9c9384",
-          darkgray: "#2A354B",
-          dark: "#08142C",
-          secondary: "#274B75",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#fbf1c7",      // bg0
+          lightgray: "#ebdbb2",  // bg1
+          gray: "#a89984",       // bg4/fg4
+          darkgray: "#3c3836",   // fg1
+          dark: "#282828",       // fg0
+          secondary: "#076678",  // blue
+          tertiary: "#427b58",   // aqua
+          highlight: "rgba(181, 118, 20, 0.15)",  // yellow alpha
+          textHighlight: "#fabd2f88",
         },
         darkMode: {
-          light: "#0c0f14",
-          lightgray: "#1D232D",
-          gray: "#5A657B",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7188A9",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#282828",      // bg0
+          lightgray: "#3c3836",  // bg1
+          gray: "#665c54",       // bg3
+          darkgray: "#d5c4a1",   // fg2
+          dark: "#ebdbb2",       // fg1
+          secondary: "#83a598",  // blue
+          tertiary: "#8ec07c",   // aqua
+          highlight: "rgba(250, 189, 47, 0.15)",  // yellow alpha
+          textHighlight: "#fabd2f88",
         },
       },
     },
@@ -63,7 +63,12 @@ const config: QuartzConfig = {
       }),
       Plugin.Poetry(),
       Plugin.Latex({ renderEngine: "katex" }),
-      Plugin.SyntaxHighlighting(),
+      Plugin.SyntaxHighlighting({
+        theme: {
+          light: "github-light",
+          dark: "gruvbox-dark-hard",
+        },
+      }),
       Plugin.ObsidianFlavoredMarkdown({
         enableInHtmlEmbed: false,
         parseTags: false,

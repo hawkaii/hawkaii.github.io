@@ -136,15 +136,16 @@ body.animation-ready #quartz-body {
   width: 100%;
   isolation: isolate;
 
-  --day: #fffdfa;
-  --evening: #fccc83;
-  --dusk: #db7a2a;
-  --night: #0f131c;
-  --dawn: #16132b;
-  --morning: #9fb3bf;
+  // Gruvbox palette
+  --day: #fbf1c7;        // bg0 light
+  --evening: #ebdbb2;    // bg1 light
+  --dusk: #af3a03;       // orange light
+  --night: #282828;      // bg0 dark
+  --dawn: #3c3836;       // bg1 dark
+  --morning: #a89984;    // bg4/fg4
 
-  --shadow: #1a1917;
-  --bounce-light: #fffffc;
+  --shadow: #1d2021;     // bg0_hard dark
+  --bounce-light: #fbf1c7;
   --timing-fn: cubic-bezier(0.455, 0.19, 0, 0.985);
 
   body.animation-ready & {
@@ -159,8 +160,8 @@ body.animation-ready #quartz-body {
   }
 
   [saved-theme="dark"] & {
-    --shadow: #030307;
-    --bounce-light: #1b293f;
+    --shadow: #1d2021;     // bg0_hard dark
+    --bounce-light: #3c3836; // bg1 dark
   }
 
   & > #progressive-blur {
