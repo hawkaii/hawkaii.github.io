@@ -14,7 +14,7 @@ draft: false
 # GCP Free Tier Hurdles
 
 Everything I learned the hard way running a single e2-micro VM on GCP's free tier. The "free" VM ended up costing ₹58 for 8 days — here's why.
-![](../images/Pasted image 20260603134224.png)
+![](../images/Pasted%20image%2020260603134224.png)
 
 ## 1. Region Lock — Free Tier Only in US
 
@@ -23,7 +23,7 @@ The e2-micro is free **only** in `us-west1`, `us-central1`, and `us-east1`. Pick
 **Lesson:** Always check free tier region list before creating a VM.
 
 ## 2. Boot Disk Defaults to pd-balanced (NOT Free)
-![](../images/Pasted image 20260603134447.png)
+![](../images/Pasted%20image%2020260603134447.png)
 
 Free tier covers **30GB of standard HDD (pd-standard)**. The Console defaults to `pd-balanced` which costs ~₹84/GB/month. A 10GB disk = ~₹22 for 8 days.
 
@@ -39,7 +39,7 @@ This is the trap that got me ₹44 of the ₹58 bill. GCP enables daily snapshot
 **Cost:** ₹30 for upload + ₹14 for storage = ₹44 for 8 days.
 
 ## 4. Multi-Regional Snapshots Are Expensive
-![](../images/Pasted image 20260603134624.png)
+![](../images/Pasted%20image%2020260603134624.png)
 
 A standard (regional) snapshot of the same 16GB disk would cost ~₹8/month. Multi-regional was ₹50+/month. The difference is massive for no real benefit on a dev VM.
 
@@ -50,7 +50,7 @@ A standard (regional) snapshot of the same 16GB disk would cost ~₹8/month. Mul
 Enabled by default on every VM. It's a Google-managed OS config agent for patching and compliance — useful for enterprise, useless for a personal dev VM. Costs ~₹11/month.
 
 **Lesson:** Disable it: GCP Console → VM → Edit → Observability → disable.
-![](../images/Pasted image 20260603134739.png)
+![](../images/Pasted%20image%2020260603134739.png)
 
 ## 6. 1GB Free Egress Runs Out Fast
 
@@ -60,7 +60,7 @@ Free tier includes only **1GB/month** network egress. Running a dashboard, cloni
 
 ## 7. No UPI for Small Bills
 
-![](../images/Pasted image 20260603135214.png)
+![](../images/Pasted%20image%2020260603135214.png)
 GCP minimum UPI payment is ₹500. My ₹58 bill couldn't be paid via UPI. Had to use a debit card. Small amounts are a hassle.
 
 ## 8. Service Account Scopes Are Permanent

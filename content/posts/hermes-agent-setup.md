@@ -20,6 +20,8 @@ Let me check the actual script and prompt behind it.Here's the full blog sync pi
 ### Daily blog cron for my blog channel
 **Cron job:** `daily-blog-sync` — runs at 6:00 AM IST daily (`30 0 * * *`), delivers to local only
 
+For more context on the infrastructure this runs on, see [gcp-free-tier-hurdles](gcp-free-tier-hurdles).
+
 **Flow:**
 
 1. **`daily-blog-sync.sh`** (shell wrapper) orchestrates 3 steps:
@@ -29,7 +31,7 @@ Let me check the actual script and prompt behind it.Here's the full blog sync pi
 
 2. **`sync-blog.py`** does the heavy lifting:
    - `git pull --ff-only` on the vault (gets latest from Obsidian Git sync)
-   - Scans entire vault for `.md` files with `categories: [["Public Blog"]]` in frontmatter
+   - Scans entire vault for `.md` files with `categories: ["Public Blog"]("public-blog")` in frontmatter
    - Skips drafts (`draft: true`), templates, logs, graphify dirs
    - Transforms frontmatter: vault format (`created`, `categories`, `status`) → Quartz format (`date`, `tags`, `draft`)
    - Copies matched posts to `~/hawkaii.github.io/content/posts/`
@@ -39,9 +41,9 @@ Let me check the actual script and prompt behind it.Here's the full blog sync pi
 
 4. **GitHub Pages** deploys from the push (via GH Actions on the Quartz repo)
 
-**How you publish a post:** Write in Obsidian anywhere in the vault, add `categories: [["Public Blog"]]` to frontmatter, set `draft: false`. The 6 AM cron picks it up automatically.
+**How you publish a post:** Write in Obsidian anywhere in the vault, add `categories: ["Public Blog"]("public-blog")` to frontmatter, set `draft: false`. The 6 AM cron picks it up automatically.
 
 **Current status:** Last run was today at 6:09 AM IST — status `ok`.
 
 
-I have set  up hermes in [[gcp-free-tier-hurdles | GCP vm]] which has it's struggle 
+I have set  up hermes in [GCP vm](gcp-free-tier-hurdles) which has it's struggle 

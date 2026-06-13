@@ -21,9 +21,9 @@ This is a test post to verify the vault → Quartz sync workflow.
 
 ## Wikilinks
 
-Here's a link to [[notes/how-to-use]] to test wikilink preservation.
+Here's a link to [notes/how-to-use](notes/how-to-use) to test wikilink preservation.
 
-And here's an aliased link: [[notes/quick-reference|Quick Ref]].
+And here's an aliased link: [Quick Ref](notes/quick-reference).
 
 ## Code block
 
