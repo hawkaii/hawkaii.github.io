@@ -66,7 +66,7 @@ const config: QuartzConfig = {
       Plugin.SyntaxHighlighting({
         theme: {
           light: "github-light",
-          dark: "gruvbox-dark-hard",
+          dark: "github-dark",
         },
       }),
       Plugin.ObsidianFlavoredMarkdown({
