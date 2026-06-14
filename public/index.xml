@@ -6,6 +6,12 @@
       <description>Last 10 notes on hawkaii&#039;s blog</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>hermes-agent-setup</title>
+    <link>https://blog.hawkaii.me/posts/hermes-agent-setup</link>
+    <guid>https://blog.hawkaii.me/posts/hermes-agent-setup</guid>
+    <description>hermes-agent-setup I have made a hermes agent setup and have him automate of many of my task which will make me do things and save time and more importantly will remove function on such example is this cron job i built in hermes’s word Let me check the actual script and prompt behind it.Here’s the f...</description>
+    <pubDate>Sat, 13 Jun 2026 00:00:00 GMT</pubDate>
+  </item><item>
     <title>Personal</title>
     <link>https://blog.hawkaii.me/tags/personal</link>
     <guid>https://blog.hawkaii.me/tags/personal</guid>
@@ -58,12 +64,6 @@
     <link>https://blog.hawkaii.me/books</link>
     <guid>https://blog.hawkaii.me/books</guid>
     <description></description>
-    <pubDate>Sun, 07 Jun 2026 09:11:49 GMT</pubDate>
-  </item><item>
-    <title>hawkaii&#039;s blog</title>
-    <link>https://blog.hawkaii.me/</link>
-    <guid>https://blog.hawkaii.me/</guid>
-    <description> Welcome! I’m hawkaii. This is my little hypertext garden on the Internet — make yourself at home! Currently, I’m exploring hackathon and what backend technology looks like . Nowadays i am fascinated by the rise of agentic technologies.</description>
     <pubDate>Sun, 07 Jun 2026 09:11:49 GMT</pubDate>
   </item>
     </channel>

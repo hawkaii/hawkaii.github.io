@@ -16,6 +16,15 @@ body {
   font-synthesis: style;
 }
 
+// Force dark theme always
+:root {
+  saved-theme: dark !important;
+}
+
+html {
+  saved-theme: dark !important;
+}
+
 // Background image on dappled-light so it persists through theme transitions
 #dappled-light {
   background-image: url("/static/bg.jpg");
@@ -42,6 +51,26 @@ body {
     position: relative;
     z-index: 1;
   }
+
+  // Force dark colors always — disable sunrise animation
+  --day: #282828 !important;
+  --evening: #3c3836 !important;
+  --dusk: #282828 !important;
+  --night: #282828 !important;
+  --dawn: #3c3836 !important;
+  --morning: #a89984 !important;
+  --shadow: #1d2021 !important;
+  --bounce-light: #3c3836 !important;
+
+  // Disable sunrise/sunset animations
+  animation: none !important;
+  background-color: #282828 !important;
+}
+
+// Force dark theme colors on body
+body {
+  background-color: #282828 !important;
+  color: #ebdbb2 !important;
 }
 
 img[src*="banner.svg"] {
