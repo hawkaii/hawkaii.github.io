@@ -41,7 +41,6 @@ const left = [
         Component: Component.Search(),
         grow: true,
       },
-      { Component: Component.Darkmode() },
     ],
   }),
   ...recentNotes.map((c) => Component.DesktopOnly(c)),
