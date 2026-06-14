@@ -30,7 +30,7 @@ html {
   background-image: url("/static/bg.jpg");
   background-size: cover;
   background-attachment: fixed;
-  background-position: center;
+  background-position: center top;
   background-repeat: no-repeat;
 
   // Dark overlay for readability — blends with theme
@@ -65,6 +65,20 @@ html {
   // Disable sunrise/sunset animations
   animation: none !important;
   background-color: #282828 !important;
+}
+
+// Mobile fixes — background-attachment:fixed doesn't work on iOS
+@media (max-width: 768px) {
+  #dappled-light {
+    background-attachment: scroll;
+    background-size: cover;
+    background-position: center top;
+    
+    // Darker overlay on mobile for better readability
+    &::before {
+      background: rgba(26, 27, 38, 0.65);
+    }
+  }
 }
 
 // Force dark theme colors on body
