@@ -14,6 +14,32 @@ body {
 
   // only allow synthesizing italics but not bold
   font-synthesis: style;
+
+  // Background image
+  background-image: url("/static/bg.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  // Dark overlay for readability
+  &::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(26, 27, 38, 0.85);
+    z-index: -1;
+    pointer-events: none;
+  }
+}
+
+// Ensure content sits above overlay
+#quartz-body {
+  position: relative;
+  z-index: 1;
 }
 
 img[src*="banner.svg"] {
