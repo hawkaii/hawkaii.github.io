@@ -27,6 +27,7 @@ html {
 
 // Background image on dappled-light so it persists through theme transitions
 #dappled-light {
+  z-index: -1;
   background-image: url("/static/bg.jpg");
   background-size: cover;
   background-attachment: fixed;
