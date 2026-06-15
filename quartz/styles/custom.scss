@@ -16,13 +16,18 @@ body {
   font-synthesis: style;
 }
 
-// Force dark theme always
+// Force dark theme colors directly on :root
 :root {
-  saved-theme: dark !important;
-}
-
-html {
-  saved-theme: dark !important;
+  --light: #282828 !important;
+  --lightgray: #3c3836 !important;
+  --gray: #665c54 !important;
+  --darkgray: #d5c4a1 !important;
+  --dark: #ebdbb2 !important;
+  --secondary: #83a598 !important;
+  --tertiary: #8ec07c !important;
+  --highlight: rgba(250, 189, 47, 0.15) !important;
+  --textHighlight: #fabd2f88 !important;
+  --border: #3c3836 !important;
 }
 
 // Background image on dappled-light so it persists through theme transitions
