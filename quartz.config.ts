@@ -15,7 +15,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "blog.hawkaii.me",
+    baseUrl: "hawkaii.github.io",
     ignorePatterns: ["private", "templates"],
     defaultDateType: "created",
     theme: {
