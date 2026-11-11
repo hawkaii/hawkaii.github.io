@@ -19,6 +19,7 @@ As far as 'about' pages go, I hope this intrigues you to read more the stuffs i 
 - [The oak letter desk](/posts/): a collection of my favorite [[thoughts/writing|writing]];
 - [The hand-crafted workbench](thoughts/craft.md): craft I am proud of (websites, talks, workshops, projects, etc.);
 - [The bookshelf on the far wall](/books): books that are in some state of read, being read, or to be read.
+- [The resume](https://drive.google.com/file/d/1LKGe1T3IhOu6bX_SHk0OkCQXimMVdtDP/view): my resume, in one page.
 
 ```poetry
 - hawkaii :)

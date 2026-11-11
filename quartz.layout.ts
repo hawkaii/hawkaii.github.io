@@ -27,7 +27,8 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/hawkaii",
       Twitter: "https://twitter.com/hawkaiimello",
-      Website: "https://hawkaii.me"
+      Website: "https://hawkaii.me",
+      Resume: "https://drive.google.com/file/d/1LKGe1T3IhOu6bX_SHk0OkCQXimMVdtDP/view"
     },
   }),
 }
