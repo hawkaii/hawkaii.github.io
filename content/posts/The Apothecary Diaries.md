@@ -12,7 +12,7 @@ I was logged off of my crunchyroll subscription due to not watching anything as 
 ### some context
 The starting was great , i think it really hit the spot of me continuing to watch. As i was already in-between my [Suits](/posts/suits) resume, I was really getting bored of season 7. I think this gave me a sense of fresh bredth. 
 ## Season 1 
-Ok **MaoMao** is the character i really dream of. I think i have the soft spot for these awesome but real charactore. I think that is why i really like [Mob Psycho](/posts/mob-psycho) , [The Big Bang Theory](/posts/the-big-bang-theory),  [Baby Driver](/posts/baby-driver) , [Whiplash](/posts/whiplash) to name a few
+Ok **MaoMao** is the character i really dream of. I think i have the soft spot for these awesome but real character. I think that is why i really like [Mob Psycho](/posts/mob-psycho) , [The Big Bang Theory](/posts/the-big-bang-theory),  [Baby Driver](/posts/baby-driver) , [Whiplash](/posts/whiplash) to name a few
 
 Though i thought it would be like [Hyouka](/posts/hyouka), a slice of life detective show with few comedy. But i never once though everything would be so much connected and build up something this big. I am really in awe about the world building. The closest i though of connection is [Attack on titan](/posts/attack-on-titan) . Though comparing them is not really fair. But i think the genre are so different but the depth truly has that vibe.
 I don't to forget how curious i was watching this but in season 1 it was just a good show, i think season 2 made it next level 

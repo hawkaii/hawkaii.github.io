@@ -62,7 +62,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "thoughts/September 2025.md",
+                "file": "_index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -77,7 +77,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "September 2025"
+              "title": "_index"
+            }
+          },
+          {
+            "id": "6376d8c78fecf463",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/The Apothecary Diaries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Apothecary Diaries"
             }
           },
           {
@@ -189,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "1f6dc5b45646f18f",
@@ -202,7 +226,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "thoughts/September 2025.md",
+                "file": "posts/The Apothecary Diaries.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +254,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of September 2025"
+              "title": "Local graph"
             }
           }
         ]
@@ -253,7 +277,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -382,25 +408,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c7ba38da471da55b",
+  "active": "6376d8c78fecf463",
   "lastOpenFiles": [
+    "posts/statuscode_2.md",
+    "posts/backend.md",
+    "posts/azure_ai_ocr.md",
+    "templates/post.md",
+    "tags/fruit.md",
+    "images/cloudinary.png",
+    "thoughts/craft.md",
+    "_index.md",
+    "thoughts/September 2025.md",
     "thoughts/Internet.md",
     "posts/configuring_a_nginx_server.md",
     "posts/winning_metamorph.md",
-    "images/cloudinary.png",
     "books.md",
     "images/Pasted image 20250913031845.png",
     "images/Pasted image 20250811183433.png",
-    "_index.md",
     "thoughts/writing.md",
     "thoughts/hypertext.md",
-    "thoughts/craft.md",
     "thoughts/agentic.md",
     "thoughts/agency.md",
     "posts/monkey_go_parser.md",
-    "posts/statuscode_2.md",
     "academia.hawkaii.me.md",
-    "thoughts/September 2025.md",
     "images/statuscode_images/PXL_20250823_203647567~2.jpg",
     "images/statuscode_images/PXL_20250824_214042121.jpg",
     "images/statuscode_images/PXL_20250826_164028819.jpg",
@@ -413,14 +443,11 @@
     "posts/making_annapurna_bot.md",
     "posts/making_monkey_go.md",
     "posts/contributing in Flux.md",
-    "posts/backend.md",
     "images/metamorph images/Copy of IMG_9141.jpg",
     "thoughts/Untitled",
     "posts/contributing in syft.md",
     "posts/annapurna-bot database.md",
     "images/metamorph images",
-    "posts/networked-thought.md",
-    "tweet/tweet-thread-making_annapurna_bot.md",
     "images/statuscode_images",
     "images",
     "tweet",
